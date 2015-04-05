@@ -1,19 +1,20 @@
-# Conference Code of Conduct
+#Code of conduct
+All people who choose to be a part of our community are required to agree with the following code of conduct.
 
-All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+We expect everyone to help create a safe, positive, and welcoming environment for everyone.
 
-tl;dr: Be nice with each other
+**TL;DR: Be nice with each other.** *MINASWAN*
 
-# Need Help?
+##The quick version
+Our community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion (or lack thereof), or any other intrinsic characteristic that makes us who we are.
 
-You have our contact details in the emails we've sent.
+**Our community does not tolerate harassment in any form.**
 
-# The Quick Version
+Sexual, violent, and/or hateful language and imagery is not appropriate for any of our events, or venues. That includes conferences, meetups, talks, workshops, parties and soirees, Twitter, IRC, etc.
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+People that violate these rules may be sanctioned or expelled from our community events, without a refund, at the discretion of the conference organisers.
 
-# The Less Quick Version
-
+##The less quick version
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -28,6 +29,10 @@ Conference staff will be happy to help participants contact hotel/venue security
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative
-Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com
+##Need Help?
+You have our contact details in the emails we've sent.
+
+---
+
+Copied left from: [@leftlogic on GitHub](http://github.com/leftlogic/confcodeofconduct.com)
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
