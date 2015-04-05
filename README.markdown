@@ -18,7 +18,7 @@ Sexual, violent, and/or hateful language and imagery is simply not appropriate f
 
 Community members asked to stop any harassing behavior are expected to comply immediately. This includes longtime members, newbies, friends who come along to events, sponsors, and organizers.
 
-People that violate these rules may be sanctioned or expelled from our community events, without a refund, at the discretion of the community organisers.
+People that violate our code may be sanctioned or expelled from our community events, without a refund, at the discretion of the community organisers.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a community organizer.
 
