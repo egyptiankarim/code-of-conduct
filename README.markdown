@@ -28,5 +28,4 @@ If you would like to contribute to our code, open up an issue, or submit a pull 
 ---
 
 Copied left from: [@leftlogic on GitHub](http://github.com/leftlogic/confcodeofconduct.com)
-
 *Licensed under the Creative Commons Attribution 3.0 Unported License*
