@@ -5,32 +5,29 @@ We expect everyone to help create a safe, positive, and welcoming environment fo
 
 **TL;DR: Be nice with each other.** *MINASWAN*
 
-##The quick version
+##The whole shebang
 Our community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion (or lack thereof), or any other intrinsic characteristic that makes us who we are.
+
+Harassment is the expression of ideas, through actions or words, intended or known to shame, intimidate, or harm another person. Harassment hurts people, and by extension destroys communities.
+
+Harassment may include, but is not limited to, offensive verbal comments related to any of those intrinsic characteristics by which we define our humanity, the display of sexually explicit images, deliberate physical intimidation, stalking,  photography or recording without consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 **Our community does not tolerate harassment in any form.**
 
-Sexual, violent, and/or hateful language and imagery is not appropriate for any of our events, or venues. That includes conferences, meetups, talks, workshops, parties and soirees, Twitter, IRC, etc.
+Sexual, violent, and/or hateful language and imagery is simply not appropriate for any of our events, or venues. That includes conferences, meetups, talks, workshops, parties and soirees, Twitter, IRC, email lists, ham radio conversations, etc.
 
-People that violate these rules may be sanctioned or expelled from our community events, without a refund, at the discretion of the conference organisers.
+Community members asked to stop any harassing behavior are expected to comply immediately. This includes longtime members, newbies, friends who come along to events, sponsors, and organizers.
 
-##The less quick version
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+People that violate these rules may be sanctioned or expelled from our community events, without a refund, at the discretion of the community organisers.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
-
-If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded t-shirts.
-
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a community organizer.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
 ##Need Help?
-You have our contact details in the emails we've sent.
+If you have questions, comments, or concerns related to violations or our code, please be in touch with our community's organizers.
+
+If you would like to contribute to our code, open up an issue, or submit a pull request!
 
 ---
 
