@@ -22,8 +22,6 @@ People that violate these rules may be sanctioned or expelled from our community
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a community organizer.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
-
 ##Need Help?
 If you have questions, comments, or concerns related to violations or our code, please be in touch with our community's organizers.
 
