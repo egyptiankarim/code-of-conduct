@@ -9,7 +9,7 @@ Harassment is the expression of ideas, through actions or words, intended or kno
 
 Harassment may include, but is not limited to, offensive verbal comments related to any of those intrinsic characteristics by which we define our humanity, the display of sexually explicit images, deliberate physical intimidation, stalking,  photography or recording without consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-**Our community does not tolerate harassment in any form.**
+Our community does not tolerate harassment in any form.
 
 Sexual, violent, and/or hateful language and imagery is simply not appropriate for any of our events, or venues. That includes conferences, meetups, talks, workshops, parties and soirees, Twitter, IRC, email lists, ham radio conversations, etc.
 
