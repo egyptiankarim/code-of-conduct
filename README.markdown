@@ -3,9 +3,6 @@ All people who choose to be a part of our community are required to agree with t
 
 We expect everyone to help create a safe, positive, and welcoming environment for everyone.
 
-**TL;DR: Be nice with each other.** *MINASWAN*
-
-##The whole shebang
 Our community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion (or lack thereof), or any other intrinsic characteristic that makes us who we are.
 
 Harassment is the expression of ideas, through actions or words, intended or known to shame, intimidate, or harm another person. Harassment hurts people, and by extension destroys communities.
@@ -18,7 +15,7 @@ Sexual, violent, and/or hateful language and imagery is simply not appropriate f
 
 Community members asked to stop any harassing behavior are expected to comply immediately. This includes longtime members, newbies, friends who come along to events, sponsors, and organizers.
 
-People that violate our code may be sanctioned or expelled from our community events, without a refund, at the discretion of the community organisers.
+People that violate our code may be sanctioned or expelled from our community events, without a refund, at the discretion of the community organizers.
 
 ##Need Help?
 If you have questions, comments, or concerns related to violations of our code, please be in touch with our community's organizers.
