@@ -1,5 +1,5 @@
 #Code of conduct
-All people who choose to be a part of our community are required to agree with the following code of conduct.
+**All people who choose to be a part of our community are required to agree with the following code of conduct.**
 
 We expect everyone to help create a safe, positive, and welcoming environment for everyone.
 
