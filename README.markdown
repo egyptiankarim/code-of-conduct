@@ -18,7 +18,8 @@ Community members asked to stop any harassing behavior are expected to comply im
 
 People that violate our code may be sanctioned or expelled from our community events, without a refund, at the discretion of the community organizers.
 
-##Need Help?
+## Need Help?
+
 If you have questions, comments, or concerns related to violations of our code, please be in touch with our community's organizers.
 
 If you would like to contribute to our code, open up an issue, or submit a pull request!
